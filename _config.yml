@@ -78,5 +78,5 @@ exclude_generator:
 ## Docs: http://zespia.tw/hexo/docs/deploy.html
 deploy:
   type: github
-  repository: http://github.com/kabuke/Hexo
+  repository: searobber@gmail.com:000405sea@github.com/kabuke/Hexo
   branch: gh-pages
