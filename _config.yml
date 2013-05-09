@@ -3,7 +3,7 @@
 ## Source: https://github.com/tommy351/hexo/
 
 # Site
-title: Hexo test
+title: Kaubke Blog power by Hexo
 subtitle: subtitle
 description: description
 author: Kabuke
@@ -12,8 +12,8 @@ language: zh-TW
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://github.com/kabuke/Hexo
-root: /Hexo/
+url: http://kabuke.github.io/
+root: /
 permalink: :year/:month/:day/:title/
 tag_dir: tags
 archive_dir: archives
@@ -78,5 +78,5 @@ exclude_generator:
 ## Docs: http://zespia.tw/hexo/docs/deploy.html
 deploy:
   type: github
-  repository: https://searobber@gmail.com:000405sea@github.com/kabuke/Hexo
-  branch: gh-pages
+  repository: http://searobber@gmail.com:000405sea@kabuke.github.io/
+  branch: master
